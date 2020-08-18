@@ -1,0 +1,11 @@
+F:\C#\mission\mission\bin\Debug\netcoreapp2.1\mission.deps.json
+F:\C#\mission\mission\bin\Debug\netcoreapp2.1\mission.runtimeconfig.json
+F:\C#\mission\mission\bin\Debug\netcoreapp2.1\mission.runtimeconfig.dev.json
+F:\C#\mission\mission\bin\Debug\netcoreapp2.1\mission.dll
+F:\C#\mission\mission\bin\Debug\netcoreapp2.1\mission.pdb
+F:\C#\mission\mission\obj\Debug\netcoreapp2.1\mission.csprojAssemblyReference.cache
+F:\C#\mission\mission\obj\Debug\netcoreapp2.1\mission.csproj.CoreCompileInputs.cache
+F:\C#\mission\mission\obj\Debug\netcoreapp2.1\mission.AssemblyInfoInputs.cache
+F:\C#\mission\mission\obj\Debug\netcoreapp2.1\mission.AssemblyInfo.cs
+F:\C#\mission\mission\obj\Debug\netcoreapp2.1\mission.dll
+F:\C#\mission\mission\obj\Debug\netcoreapp2.1\mission.pdb
